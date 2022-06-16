@@ -1,7 +1,8 @@
 <div align="center">
-  안녕하세요, 오미정입니다 🙌
+  ### 안녕하세요, 오미정입니다 🙌
   <hr>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijung-oh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmijung-oh&count_bg=%23FF8C8C&title_bg=%23FF5B5B&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/mijung-oh)
 
   ![mijung's github stats](https://github-readme-stats.vercel.app/api?username=mijung-oh&show_icons=true&theme=radical)
 
